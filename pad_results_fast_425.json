@@ -1,0 +1,158 @@
+[
+  {
+    "project_id": "P-CI-AAE-003",
+    "url": "https://mapafrica.afdb.org/en/projects/46002-P-CI-AAE-003",
+    "has_pad": false,
+    "evidence": []
+  },
+  {
+    "project_id": "P-ML-AAE-003",
+    "url": "https://mapafrica.afdb.org/en/projects/46002-P-ML-AAE-003",
+    "has_pad": false,
+    "evidence": []
+  },
+  {
+    "project_id": "P-NE-AAC-008",
+    "url": "https://mapafrica.afdb.org/en/projects/46002-P-NE-AAC-008",
+    "has_pad": false,
+    "evidence": []
+  },
+  {
+    "project_id": "P-RW-A00-007",
+    "url": "https://mapafrica.afdb.org/en/projects/46002-P-RW-A00-007",
+    "has_pad": false,
+    "evidence": []
+  },
+  {
+    "project_id": "P-BF-AB0-012",
+    "url": "https://mapafrica.afdb.org/en/projects/46002-P-BF-AB0-012",
+    "has_pad": false,
+    "evidence": []
+  },
+  {
+    "project_id": "P-Z1-AAE-007",
+    "url": "https://mapafrica.afdb.org/en/projects/46002-P-Z1-AAE-007",
+    "has_pad": false,
+    "evidence": []
+  },
+  {
+    "project_id": "P-CD-AAF-003",
+    "url": "https://mapafrica.afdb.org/en/projects/46002-P-CD-AAF-003",
+    "has_pad": true,
+    "evidence": [
+      "Found 'appraisal report' 3 times"
+    ]
+  },
+  {
+    "project_id": "P-SD-AAZ-004",
+    "url": "https://mapafrica.afdb.org/en/projects/46002-P-SD-AAZ-004",
+    "has_pad": false,
+    "evidence": []
+  },
+  {
+    "project_id": "P-GH-AA0-015",
+    "url": "https://mapafrica.afdb.org/en/projects/46002-P-GH-AA0-015",
+    "has_pad": false,
+    "evidence": []
+  },
+  {
+    "project_id": "P-TZ-AAZ-003",
+    "url": "https://mapafrica.afdb.org/en/projects/46002-P-TZ-AAZ-003",
+    "has_pad": false,
+    "evidence": []
+  },
+  {
+    "project_id": "P-CM-AAE-002",
+    "url": "https://mapafrica.afdb.org/en/projects/46002-P-CM-AAE-002",
+    "has_pad": false,
+    "evidence": []
+  },
+  {
+    "project_id": "P-NE-AAE-001",
+    "url": "https://mapafrica.afdb.org/en/projects/46002-P-NE-AAE-001",
+    "has_pad": false,
+    "evidence": []
+  },
+  {
+    "project_id": "P-BF-AAE-004",
+    "url": "https://mapafrica.afdb.org/en/projects/46002-P-BF-AAE-004",
+    "has_pad": false,
+    "evidence": []
+  },
+  {
+    "project_id": "P-TG-AAE-001",
+    "url": "https://mapafrica.afdb.org/en/projects/46002-P-TG-AAE-001",
+    "has_pad": false,
+    "evidence": []
+  },
+  {
+    "project_id": "P-TD-AAE-006",
+    "url": "https://mapafrica.afdb.org/en/projects/46002-P-TD-AAE-006",
+    "has_pad": false,
+    "evidence": []
+  },
+  {
+    "project_id": "P-Z1-AAE-008",
+    "url": "https://mapafrica.afdb.org/en/projects/46002-P-Z1-AAE-008",
+    "has_pad": false,
+    "evidence": []
+  },
+  {
+    "project_id": "P-GH-AA0-032",
+    "url": "https://mapafrica.afdb.org/en/projects/46002-P-GH-AA0-032",
+    "has_pad": false,
+    "evidence": []
+  },
+  {
+    "project_id": "P-NG-AAE-002",
+    "url": "https://mapafrica.afdb.org/en/projects/46002-P-NG-AAE-002",
+    "has_pad": false,
+    "evidence": []
+  },
+  {
+    "project_id": "P-BJ-AAE-005",
+    "url": "https://mapafrica.afdb.org/en/projects/46002-P-BJ-AAE-005",
+    "has_pad": false,
+    "evidence": []
+  },
+  {
+    "project_id": "P-MG-A00-002",
+    "url": "https://mapafrica.afdb.org/en/projects/46002-P-MG-A00-002",
+    "has_pad": false,
+    "evidence": []
+  },
+  {
+    "project_id": "P-BI-AA0-010",
+    "url": "https://mapafrica.afdb.org/en/projects/46002-P-BI-AA0-010",
+    "has_pad": true,
+    "evidence": [
+      "Found 'appraisal report' 3 times"
+    ]
+  },
+  {
+    "project_id": "P-GW-AA0-008",
+    "url": "https://mapafrica.afdb.org/en/projects/46002-P-GW-AA0-008",
+    "has_pad": true,
+    "evidence": [
+      "Found 'appraisal report' 2 times"
+    ]
+  },
+  {
+    "project_id": "P-MZ-AZ0-001",
+    "url": "https://mapafrica.afdb.org/en/projects/46002-P-MZ-AZ0-001",
+    "has_pad": false,
+    "evidence": []
+  },
+  {
+    "project_id": "P-CD-AB0-005",
+    "url": "https://mapafrica.afdb.org/en/projects/46002-P-CD-AB0-005",
+    "has_pad": false,
+    "evidence": []
+  },
+  {
+    "project_id": "P-MW-AZ0-002",
+    "url": "https://mapafrica.afdb.org/en/projects/46002-P-MW-AZ0-002",
+    "has_pad": false,
+    "evidence": []
+  }
+]
